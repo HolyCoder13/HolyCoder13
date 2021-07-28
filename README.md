@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ✨@HolyCoder13✨✨
-- 👀 I’m interested in coding 
+- 💞️Visit me everyday to see my new Gist projects. Thanks!
 - ✨ Visual studio and Js Bin 👍
 - 🌱 I’m currently learning Javascript :D to complete my front-end skills
 - 💞️ I’m looking to collaborate on colleague projects!
